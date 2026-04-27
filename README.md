@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**chairelk603/chairelk603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **chairelk603**, a tinkerer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🧠 Lifelong learner
+- 💬 Ask me anything about code
+- 🐛 Bug hunter by night
+- 🎨 Code is poetry
+
+## Tech
+
+`Deno` `Kubernetes` `MongoDB`
+
+---
+
+_Occasional blogger._
